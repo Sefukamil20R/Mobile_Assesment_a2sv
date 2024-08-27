@@ -1,16 +1,2 @@
-# mobileassignment
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_2024-08-27_18-34-56](https://github.com/user-attachments/assets/ace79506-1794-49b2-ad30-e296857f0dc0)
+![photo_2024-08-27_18-35-12](https://github.com/user-attachments/assets/9fc848c5-0735-4051-a9c3-897598812d67)
